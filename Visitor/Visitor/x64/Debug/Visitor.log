@@ -1,0 +1,3 @@
+﻿  Visitor.cpp
+D:\NatashaAll\метвыч\VS\Visitor\Visitor\Visitor.cpp(78,1): warning C4715: BinaryOperation::evaluate: значение возвращается не при всех путях выполнения
+  Visitor.vcxproj -> D:\NatashaAll\метвыч\VS\Visitor\x64\Debug\Visitor.exe
